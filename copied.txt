@@ -1,0 +1,23 @@
+ <p> Order Online.com is a platform which is devoloped 
+            for the convience of an induvidual to have the 
+            best quality of food orded by the best restorants 
+            you want. We make sure that we give the best 
+            quality food for the welfair of our soicety and 
+            protect you by providing you a very fine and best
+            quality food. </p>
+            
+        <p> Order Online.com is a platform which is devoloped 
+            for the convience of an induvidual to have the 
+            best quality of food orded by the best restorants 
+            you want. We make sure that we give the best 
+            quality food for the welfair of our soicety and 
+            protect you by providing you a very fine and best
+            quality food. </p>
+       
+        <p> Order Online.com is a platform which is devoloped 
+            for the convience of an induvidual to have the 
+            best quality of food orded by the best restorants 
+            you want. We make sure that we give the best 
+            quality food for the welfair of our soicety and 
+            protect you by providing you a very fine and best
+            quality food. </p>
